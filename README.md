@@ -8,6 +8,8 @@ A fun 2d open world driving simulator
 
 The game offers a wide variety of cars to choose from. Sports cars to trucks... and anywhere in between.
 
+![drift-uhwmvuxk](https://github.com/blurryfxcedride/justdrive/assets/100966957/429c968c-bf79-4ff8-9f42-4f3db7c40a75)
+
 # Drive how ever you want
 
 Realistic or drifting... you can do it in Just Drive.
